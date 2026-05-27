@@ -1,0 +1,3 @@
+[submodule "libs/Verification"]
+	path = libs/Verification
+	url = https://github.com/MichaelStollBayreuth/Verification
