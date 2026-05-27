@@ -1,6 +1,6 @@
-# research-template
+# diophantine-extensions
 
-<!-- Replace this line with a one-line description of what this repo computes -->
+Code verifying that Diophantus's original rational quadruple {1/16, 33/16, 17/4, 105/16} has only the two known extensions to a rational quintuple: 549120/10201 and -26880/177241
 
 ## Requirements
 
